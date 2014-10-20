@@ -1,0 +1,6 @@
+# Example settings for composer.
+composer:
+  # A list of directories to run "composer install" in.
+  install_dirs:
+    - /path/to/composer.json
+    - /another/path/to/composer.json
